@@ -1,0 +1,6 @@
+110-Estrategia-150
+100-Acao-140
+120-Aventura-150
+130-Estrategia-150
+140-Acao-140
+125-Aventura-150
