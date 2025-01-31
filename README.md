@@ -1,4 +1,4 @@
-# gameland
+# Gameland
 Gameland1 é um sistema desenvolvido em Java que permite a gestão de um evento de jogos, incluindo informações sobre os jogos, participantes, resultados e prêmios. 
 O sistema interage com ficheiros de texto para carregar e armazenar dados, além de fornecer funcionalidades para visualizar, modificar e remover informações.
 
